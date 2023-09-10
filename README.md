@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andri Purnama</h1>
-<h3 align="center">A passionate full stack web developer from Gresik, Indonesia</h3>
+<h3 align="center">A passionate full-stack developer from Gresik, Indonesia</h3>
 
 - 🌱 I’m currently learning **nest js**
 
-- 👨‍💻 All of my projects are available at [andripurnama.my.id](andripurnama.my.id)
+- 👨‍💻 All of my projects are available at [andripurnama.com](andripurnama.com)
 
-- 📝 I regularly write articles on [andripurnama.my.id](andripurnama.my.id)
+- 📝 I regularly write articles on [andripurnama.com](andripurnama.com)
 
 - 📫 How to reach me **kharisma.andripurnama@gmail.com**
 
-- ⚡ Fun fact **I think I'm a bot :D**
+- ⚡ Fun fact **I have passionate about UI Design :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
