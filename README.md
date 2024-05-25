@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Andri Purnama</h1>
-<h3 align="center">A passionate full-stack developer from Gresik, Indonesia</h3>
+<h1 align="center">Hi there 👋, I'm Andri Purnama</h1>
+<h3 align="center">An experienced full-stack developer from Surabaya, Indonesia</h3>
 
 - 🌱 I’m currently learning **nest js**
 
-- 👨‍💻 All of my projects are available at [andripurnama.com](andripurnama.com)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/andripurnama)
 
-- 📝 I regularly write articles on [andripurnama.com](andripurnama.com)
+- 📝 I regularly write articles on [medium](Andri Purnama's Blog)
 
 - 📫 How to reach me **kharisma.andripurnama@gmail.com**
 
